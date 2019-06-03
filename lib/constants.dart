@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 const TextStyle kLabelTextStyle =  TextStyle(color: kLabelColor, fontSize: 18);
-const TextStyle kHeightStyle = TextStyle(fontSize: 50, fontWeight: FontWeight.w900);
+const TextStyle kNumberTextStyle = TextStyle(fontSize: 50, fontWeight: FontWeight.w900);
 
 const double kBottomBarHeight = 80;
 const Color kBottomBarColor = Color(0xffe7144c);

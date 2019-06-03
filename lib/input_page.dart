@@ -73,7 +73,7 @@ class _InputPageState extends State<InputPage> {
                     crossAxisAlignment: CrossAxisAlignment.baseline,
                     textBaseline: TextBaseline.alphabetic,
                     children: <Widget>[
-                    Text(height.toString(), style: kHeightStyle,),
+                    Text(height.toString(), style: kNumberTextStyle,),
                     Text('cm', style: kLabelTextStyle,),
                   ],),
                   SliderTheme(
